@@ -8,7 +8,7 @@ As a Computer Science student majoring in Machine Learning, I am eager to find a
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [iamchesterandaya@gmail.com](mailto:iamchesterandaya@gmail.com)
-* 🧠  I'm learning Tailwind css
+* 🧠  I'm learning Programming
 * ⚡  Content creator
 
 ### Skills
