@@ -1,7 +1,3 @@
-<p align="left">
-  <strong>Mode:</strong> 🌙 Night | ☀️ Day
-</p>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=itsmeches" alt="Profile views" />
 </p>
