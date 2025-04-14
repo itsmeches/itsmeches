@@ -7,7 +7,7 @@
 
 
 
-### 👋 About Me
+<h1 align="center"> ### 👋 About Me
 
 Hi! I'm **Chester**, a passionate and driven **Computer Science student** majoring in **Machine Learning**. I’m currently seeking an **internship opportunity** where I can apply my knowledge to real-world challenges, gain hands-on experience, and grow as a developer.
 
@@ -20,16 +20,16 @@ My goal is to **leverage my technical skills**, **learn from experienced profess
 - 📍 **Location**: Philippines  
 - 📫 **Email**: [iamchesterandaya@gmail.com](mailto:iamchesterandaya@gmail.com)  
 - 🧠 **Currently Learning**: Python, LeetCode, TensorFlow  
-- 🎥 **Fun Fact**: I’m also a content creator and video editor
+- 🎥 **Fun Fact**: I’m also a content creator and a gamer
 
-🧩 I believe in using **technology to solve real problems** and make a lasting impact.  
+<h1 align="center"> 🧩 I believe in using **technology to solve real problems** and make a lasting impact.  
 Let’s **build something amazing together**! 🚀
 
 ---
 
-### 🛠️ Skills & Tools
+<h1 align="center"> ### 🛠️ Skills & Tools
 
-#### 💻 Languages & Technologies
+<h1 align="center"> #### 💻 Languages & Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
