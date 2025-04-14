@@ -1,9 +1,5 @@
 <p align="left">
-  <!-- Light/Dark mode icons (just decorative) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeches/itsmeches/main/assets/night-mode-icon.svg" />
-    <img src="https://raw.githubusercontent.com/itsmeches/itsmeches/main/assets/day-mode-icon.svg" width="32" title="Theme Mode" />
-  </picture>
+  <strong>Mode:</strong> 🌙 Night | ☀️ Day
 </p>
 
 <p align="right">
@@ -11,6 +7,7 @@
 </p>
 
 <h1 align="center">🚀 Chester Jefferson Andaya</h1>
+
 
 
 
