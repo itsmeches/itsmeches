@@ -23,7 +23,7 @@ My goal is to **leverage my technical skills**, **learn from experienced profess
 - 🎥 **Fun Fact**: I’m also a content creator and a gamer
 
 <p align="center">
-  🧩 <strong>I BELIEVE IN USING <em>TECHNOLOGY TO SOLVE REAL PROBLEMS</em> AND MAKE A LASTING IMPACT.<br>LET’S <em>BUILD SOMETHING AMAZING TOGETHER</em>! 🚀</strong>
+  🧩 <strong>I BELIEVE IN USING <em>TECHNOLOGY TO SOLVE REAL PROBLEMS</em> AND MAKE A LASTING IMPACT.🧩 <br>🚀LET’S <em>BUILD SOMETHING AMAZING TOGETHER</em>! 🚀</strong>
 </p>
 
 <hr />
