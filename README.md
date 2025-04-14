@@ -1,3 +1,11 @@
+<p align="left">
+  <!-- Light/Dark mode icons (just decorative) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeches/itsmeches/main/assets/night-mode-icon.svg" />
+    <img src="https://raw.githubusercontent.com/itsmeches/itsmeches/main/assets/day-mode-icon.svg" width="32" title="Theme Mode" />
+  </picture>
+</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=itsmeches" alt="Profile views" />
 </p>
