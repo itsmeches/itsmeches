@@ -1,8 +1,10 @@
-<h1 align="center">🚀 Chester Jefferson Andaya</h1>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=itsmeches" alt="Profile views" />
 </p>
+
+<h1 align="center">🚀 Chester Jefferson Andaya</h1>
+
+
 
 👋 Hi there! I'm **Chester**, a passionate and driven Computer Science student specializing in **Machine Learning**. I have a knack for blending **creativity and code**, and I’m actively seeking an **internship** where I can apply my skills in real-world projects, collaborate with professionals, and grow as a developer.
 
