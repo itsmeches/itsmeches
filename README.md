@@ -22,10 +22,11 @@ My goal is to **leverage my technical skills**, **learn from experienced profess
 - 🧠 **Currently Learning**: Python, LeetCode, TensorFlow  
 - 🎥 **Fun Fact**: I’m also a content creator and a gamer
 
----
-🧩 I believe in using **technology to solve real problems** and make a lasting impact. Let’s **build something amazing together**! 🚀
+<p align="center">
+  🧩 <strong>I BELIEVE IN USING <em>TECHNOLOGY TO SOLVE REAL PROBLEMS</em> AND MAKE A LASTING IMPACT.<br>LET’S <em>BUILD SOMETHING AMAZING TOGETHER</em>! 🚀</strong>
+</p>
 
----
+<hr />
 
 ### 🛠️ Skills & Tools
 
