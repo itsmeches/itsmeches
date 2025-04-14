@@ -13,7 +13,7 @@ Hi! I'm **Chester**, a passionate and driven **Computer Science student** majori
 
 I thrive at the intersection of **problem solving, code, and creativity** and I’m especially passionate about **machine learning**, **data analysis**, and **software development**. My academic journey has equipped me with a solid foundation in both theory and practice, and I’m eager to collaborate on **innovative projects** that make a meaningful impact.
 
-My goal is to **leverage my technical skills**, **learn from experienced professionals**, and contribute to groundbreaking solutions—while continuously evolving as a developer and future engineer.
+My goal is to **leverage my technical skills**, **learn from experienced professionals**, and contribute to groundbreaking solutions—while continuously evolving as a developer and engineer.
 
 
 - 🎓 **Major**: Computer Science – Machine Learning  
