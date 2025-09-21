@@ -3,70 +3,63 @@
 </p>
 
 <h1 align="center">🚀 Chester Jefferson Andaya</h1>
+<h3 align="center">Computer Science Student | Machine Learning Enthusiast | Aspiring Software Engineer</h3>
 
+---
 
+### 👋 About Me  
 
+Hi! I'm **Chester**, a passionate **Computer Science student** with a strong focus on **Machine Learning, Data Analysis, and Software Development**.  
 
-### 👋 About Me
-
-Hi! I'm **Chester**, a passionate and driven **Computer Science student** majoring in **Machine Learning**. I’m currently seeking an **internship opportunity** where I can apply my knowledge to real-world challenges, gain hands-on experience, and grow as a developer.
-
-I thrive at the intersection of **problem solving, code, and creativity** and I’m especially passionate about **machine learning**, **data analysis**, and **software development**. My academic journey has equipped me with a solid foundation in both theory and practice, and I’m eager to collaborate on **innovative projects** that make a meaningful impact.
-
-My goal is to **leverage my technical skills**, **learn from experienced professionals**, and contribute to groundbreaking solutions—while continuously evolving as a developer and engineer.
-
+I’m currently seeking an **internship opportunity** to apply my skills, contribute to impactful projects, and grow alongside experienced professionals. My mission is to use **technology to solve real problems** and create meaningful solutions.  
 
 - 🎓 **Major**: Computer Science – Machine Learning  
-- 📍 **Location**: Philippines  
+- 📍 **Based in**: Philippines  
 - 📫 **Email**: [iamchesterandaya@gmail.com](mailto:iamchesterandaya@gmail.com)  
-- 🧠 **Currently Learning**: Python, LeetCode, TensorFlow  
-- 🎥 **Fun Fact**: I’m also a content creator and a gamer
+- 🧠 **Currently Learning**: Python • TensorFlow • LeetCode  
+- 🎮 **Fun Fact**: I’m also a gamer and content creator  
 
+---
+
+### 🛠️ Skills & Tools  
+
+#### 💻 Languages & Technologies  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql,git,html,bootstrap,vscode" />
+</p>
+
+#### 🎨 Creative Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+</p>
+
+---
+
+### 🚧 Featured Projects  
+<!-- Replace with your real projects -->
+- 🥒 **[Leaf-Based Bitter Gourd Health Assessment](https://github.com/itsmeches/your-repo)** – CNN model for plant health & soil analysis  
+- 📊 **[Inventory System with Barcode Scanner](https://github.com/itsmeches/your-repo)** – PHP-based inventory with camera barcode scanning  
+- 🤖 **[Machine Learning Experiments](https://github.com/itsmeches/your-repo)** – LeetCode + ML projects in Python  
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  🧩 <strong>I BELIEVE IN USING <em>TECHNOLOGY TO SOLVE REAL PROBLEMS</em> AND MAKE A LASTING IMPACT. 🧩 <br>🚀 LET’S <em>BUILD SOMETHING AMAZING TOGETHER</em>! 🚀</strong>
-</p>
-
-<hr />
-
-### 🛠️ Skills & Tools
-
-#### 💻 Languages & Technologies
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code" />
-</p>
-
-#### 🎨 Creative Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" alt="Photoshop" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" alt="Illustrator" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" alt="After Effects" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" alt="Premiere Pro" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmeches&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeches&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<!-- You can add customized stats cards if you'd like -->
-
----
-
-### 🌐 Connect with Me
-
+### 🌐 Connect with Me  
 <p align="left">
   <a href="https://github.com/itsmeches" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="36" />
   </a>
-  <!-- Add more links here if you have LinkedIn, Portfolio, etc. -->
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
+  </a>
+  <a href="mailto:iamchesterandaya@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
+  </a>
 </p>
