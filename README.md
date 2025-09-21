@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🚀 Chester Jefferson Andaya</h1>
-<h3 align="center">Computer Science Student | Machine Learning Enthusiast | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science Student | Machine Learning Enthusiast | Aspiring Software Engineer and Data Scientist</h3>
 
 ---
 
@@ -17,7 +17,7 @@ I’m currently seeking an **internship opportunity** to apply my skills, contri
 - 📍 **Based in**: Philippines  
 - 📫 **Email**: [iamchesterandaya@gmail.com](mailto:iamchesterandaya@gmail.com)  
 - 🧠 **Currently Learning**: Python • TensorFlow • LeetCode  
-- 🎮 **Fun Fact**: I’m also a gamer and content creator  
+- 🎮 **Fun Fact**: I’m also a content creator and gamer
 
 ---
 
