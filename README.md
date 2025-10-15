@@ -3,47 +3,69 @@
 </p>
 
 <h1 align="center">🚀 Chester Jefferson Andaya</h1>
-<h3 align="center">Computer Science Student | Machine Learning Enthusiast | Aspiring Software Engineer and Data Scientist</h3>
+<h3 align="center">Computer Science Student | Machine Learning Developer | Aspiring Software Engineer & Data Scientist</h3>
 
 ---
 
 ### 👋 About Me  
 
-Hi! I'm **Chester**, a passionate **Computer Science student** with a strong focus on **Machine Learning, Data Analysis, and Software Development**.  
+Hi! I'm **Chester**, a passionate **Computer Science student** specializing in **Machine Learning, Data Analysis, and Full-Stack Development**.  
 
-I’m currently seeking an **internship opportunity** to apply my skills, contribute to impactful projects, and grow alongside experienced professionals. My mission is to use **technology to solve real problems** and create meaningful solutions.  
+I’m driven by a deep curiosity to apply **AI and software engineering** in solving real-world problems.  
+Currently, I’m working on projects involving **deep learning (CNNs)** and **web app development**, blending innovation and practicality.  
 
-- 🎓 **Major**: Computer Science – Machine Learning  
-- 📍 **Based in**: Philippines  
+- 🎓 **Major**: Computer Science — Machine Learning  
+- 📍 **Location**: Philippines  
 - 📫 **Email**: [iamchesterandaya@gmail.com](mailto:iamchesterandaya@gmail.com)  
-- 🧠 **Currently Learning**: Python • TensorFlow • LeetCode  
-- 🎮 **Fun Fact**: I’m also a content creator and gamer
+- 🔭 **Current Projects**:  
+  - *Leaf-Based Bitter Gourd Health Assessment using CNN*  
+  - *PowerPoint-to-Word Converter Web & Discord Bot*  
+- 🧠 **Learning Focus**: TensorFlow • React • Python Automation • AI Agents  
+- 🎮 **Fun Fact**: Gamer & content creator who codes, learns, and grinds LeetCode for fun  
 
 ---
 
-### 🛠️ Skills & Tools  
+### 🛠️ Tech Stack  
 
-#### 💻 Languages & Technologies  
+#### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql,git,html,css,javascript,bootstrap,tailwind,react,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,javascript,html,css" />
 </p>
 
-#### 🎨 Creative Tools  
+#### 🧠 Machine Learning & Data Science  
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Facenet-%23FF6F00.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+#### 🌐 Web & App Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express,php,mysql,vscode" />
+</p>
+
+#### 🎨 Creative & Design Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" />
 </p>
 
 ---
 
 ### 🚧 Featured Projects  
-<!-- Replace with your real projects -->
-- 🥒 **[Leaf-Based Bitter Gourd Health Assessment](https://github.com/itsmeches/your-repo)** – CNN model for plant health & soil analysis  
-- 📊 **[Inventory System with Barcode Scanner](https://github.com/itsmeches/your-repo)** – PHP-based inventory with camera barcode scanning  
-- 🤖 **[Machine Learning Experiments](https://github.com/itsmeches/your-repo)** – LeetCode + ML projects in Python  
+
+- 🥒 **[Leaf-Based Bitter Gourd Health Assessment](https://github.com/itsmeches/LeafSense)**  
+  CNN-powered system that analyzes leaf health and soil compatibility for bitter gourd crops.  
+
+- 🤖 **[PowerPoint-to-Word Converter Bot](https://github.com/itsmeches/Slide2Note)**  
+  AI-assisted file converter that extracts content from slides and compiles it into detailed Word or PDF documents.  
+
+- 💡 **[ML Experiments & Problem Solving](https://github.com/itsmeches/ML-Labs)**  
+  A collection of LeetCode challenges and mini-projects applying ML and data preprocessing techniques.  
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmeches&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeches&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
@@ -56,10 +78,16 @@ I’m currently seeking an **internship opportunity** to apply my skills, contri
   <a href="https://github.com/itsmeches" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="36" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/chesterandaya" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
   </a>
   <a href="mailto:iamchesterandaya@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="36" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning ideas into intelligent solutions — one line of code at a time.”</i>
 </p>
