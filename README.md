@@ -18,10 +18,13 @@ Currently, I’m working on projects involving **deep learning (CNNs)** and **we
 - 📍 **Location**: Philippines  
 - 📫 **Email**: [iamchesterandaya@gmail.com](mailto:iamchesterandaya@gmail.com)  
 - 🔭 **Current Projects**:  
-  - *Leaf-Based Bitter Gourd Health Assessment using CNN*  
-  - *PowerPoint-to-Word Converter Web & Discord Bot*  
+  - *Leaf-Based Bitter Gourd Health Assessment using CNN*
+  - *NU Admission*
+  - *Barakosense*  
+  - *PowerPoint-to-Transes Converter Web*
+  - *Discord Bot*
 - 🧠 **Learning Focus**: TensorFlow • React • Python Automation • AI Agents  
-- 🎮 **Fun Fact**: Gamer & content creator who codes, learns, and grinds LeetCode for fun  
+- 🎮 **Fun Fact**: Gamer & content creator who play, code, learns, and grinds LeetCode for fun  
 
 ---
 
