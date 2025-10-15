@@ -25,7 +25,7 @@ I’m currently seeking an **internship opportunity** to apply my skills, contri
 
 #### 💻 Languages & Technologies  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql,git,html,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql,git,html,javascript,bootstrap,vscode" />
 </p>
 
 #### 🎨 Creative Tools  
