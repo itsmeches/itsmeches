@@ -50,7 +50,7 @@ Currently, I’m working on projects involving **deep learning (CNNs)** and **we
 
 #### 🎨 Creative & Design Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
 </p>
 
 ---
