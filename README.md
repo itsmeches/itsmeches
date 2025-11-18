@@ -2,12 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=itsmeches" alt="Profile views" />
 </p>
 
-<h1 align="center">🚀 Chester Jefferson Andaya</h1>
+<h1 align="center">Chester Jefferson Andaya</h1>
 <h3 align="center">Computer Science Student | Machine Learning Developer | Aspiring Software Engineer & Data Scientist</h3>
 
 ---
 
-### 👋 About Me  
+### About Me  
 
 Hi! I'm **Chester**, a passionate **Computer Science student** specializing in **Machine Learning, Data Analysis, and Full-Stack Development**.  
 
