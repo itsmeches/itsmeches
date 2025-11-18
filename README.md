@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Chester Jefferson Andaya</h1>
-<h3 align="center">Computer Science Student | Machine Learning Developer | Aspiring Software Engineer & Data Scientist</h3>
+<h3 align="center">Machine Learning Engineer & Data Science Practitioner | Computer Science Student</h3>
+
 
 ---
 
