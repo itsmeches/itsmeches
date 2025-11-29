@@ -24,7 +24,7 @@ Right now, I’m working on projects that combine **computer vision**, **ML work
   - *PowerPoint → Notes Converter*  
   - *Discord Automation Bot*  
 - 🧠 **Currently Learning**: Advanced TensorFlow, Python automation, React ecosystem, AI agents  
-- 🎮 **Fun Fact**: Gamer + content creator + LeetCode grinder — all in one
+- 🎮 **Fun Fact**: Gamer + content creator + Coder
 
 ---
 
