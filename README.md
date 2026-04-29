@@ -2,11 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=itsmeches" alt="Profile views" />
 </p>
 
+
+
 <h1 align="center">Chester Jefferson Andaya</h1>
 <h3 align="center">Machine Learning Engineer · Data Science Practitioner · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%Internships-%2310B981?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-%2310B981?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/BS%20CS%20--%20ML%20Track-%233B82F6?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Philippines-%23F59E0B?style=flat-square&logoColor=white" />
 </p>
@@ -83,6 +85,16 @@ My work spans **computer vision**, **ML pipelines**, and **React-based tooling**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmeches&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeches&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="left">
+  <a href="https://github.com/itsmeches"><img src="https://skillicons.dev/icons?i=github" width="36"></a>
+  <a href="https://linkedin.com/in/chesterandaya"><img src="https://skillicons.dev/icons?i=linkedin" width="36"></a>
+  <a href="mailto:iamchesterandaya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36"></a>
 </p>
 
 ---
