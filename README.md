@@ -6,7 +6,7 @@
 <h3 align="center">Machine Learning Engineer · Data Science Practitioner · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-%2310B981?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%Work-%2310B981?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/BS%20CS%20--%20ML%20Track-%233B82F6?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Philippines-%23F59E0B?style=flat-square&logoColor=white" />
 </p>
