@@ -98,11 +98,3 @@ My work spans **computer vision**, **ML pipelines**, and **React-based tooling**
 </p>
 
 ---
-
-### 🌐 Connect
-
-<p align="left">
-  <a href="https://github.com/itsmeches"><img src="https://skillicons.dev/icons?i=github" width="36"></a>
-  <a href="https://linkedin.com/in/chesterandaya"><img src="https://skillicons.dev/icons?i=linkedin" width="36"></a>
-  <a href="mailto:iamchesterandaya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36"></a>
-</p>
